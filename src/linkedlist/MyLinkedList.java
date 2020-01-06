@@ -27,6 +27,16 @@ class LList<T> {
         }
         return list;
     }
+    void removeNodeFromList(LList list,int x){
+        Node temp=list.head,removeNode;
+        for (int i=0;i<x-1;i++){
+            temp=temp.next;
+        }
+        removeNode=temp.next;
+        temp.next=removeNode.next;
+        removeNode.next=null;
+
+    }
     void printList(LList<Character> list){
         System.out.print("My Linked List is:\t");
        Node temp=list.head;

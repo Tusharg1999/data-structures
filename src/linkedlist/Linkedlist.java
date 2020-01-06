@@ -17,7 +17,7 @@ public class Linkedlist {
             System.out.println("Do you want to add more item:y/n");
             input=scanner.next().charAt(0);
         }
+        list.removeNodeFromList(list,3);
         list.printList(list);
-
     }
 }
