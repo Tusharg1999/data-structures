@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e8c8e-2130-4243-9c97-04a7a63d2d66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/Linkedlist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-structures/linkedlist/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +38,26 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.MyLinkedList">
+  <component name="RunManager" selected="Application.Linkedlist">
     <configuration name="LList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.LList" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedlist.LList" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.Linkedlist" />
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Linkedlist" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.LList" />
       </list>
@@ -94,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578270298376</updated>
-      <workItem from="1578270299805" duration="3867000" />
+      <workItem from="1578270299805" duration="5795000" />
     </task>
     <servers />
   </component>
@@ -102,21 +116,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1862" height="279" key="GridCell.Tab.0.bottom" timestamp="1578274181900">
+    <state width="1862" height="279" key="GridCell.Tab.0.bottom" timestamp="1578308082010">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578274181900" />
-    <state width="1862" height="279" key="GridCell.Tab.0.center" timestamp="1578274181899">
+    <state width="1862" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578308082010" />
+    <state width="1862" height="279" key="GridCell.Tab.0.center" timestamp="1578308082010">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="279" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578274181899" />
-    <state width="1862" height="279" key="GridCell.Tab.0.left" timestamp="1578274181899">
+    <state width="1862" height="279" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578308082010" />
+    <state width="1862" height="279" key="GridCell.Tab.0.left" timestamp="1578308082008">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="279" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578274181899" />
-    <state width="1862" height="279" key="GridCell.Tab.0.right" timestamp="1578274181899">
+    <state width="1862" height="279" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578308082008" />
+    <state width="1862" height="279" key="GridCell.Tab.0.right" timestamp="1578308082010">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1862" height="279" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578274181899" />
+    <state width="1862" height="279" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578308082010" />
   </component>
 </project>

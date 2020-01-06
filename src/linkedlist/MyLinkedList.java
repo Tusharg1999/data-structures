@@ -36,18 +36,3 @@ class LList<T> {
        }
     }
 }
-public class MyLinkedList{
-    public static void main(String[] args) {
-        LList<Character> list= new LList<>();
-
-        list=list.insert(list,'T');
-        list=list.insert(list,'U');
-        list=list.insert(list,'S');
-        list=list.insert(list,'H');
-        list=list.insert(list,'A');
-        list=list.insert(list,'R');
-
-        list.printList(list);
-
-    }
-}
