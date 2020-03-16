@@ -1,4 +1,4 @@
-package linkedlist;
+package java.linkedlist;
 
 @SuppressWarnings("rawtypes")
 class LList<T> {

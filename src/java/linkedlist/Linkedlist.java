@@ -1,6 +1,5 @@
-package linkedlist;
+package java.linkedlist;
 
-import javax.swing.plaf.synth.SynthLookAndFeel;
 import java.util.Scanner;
 
 public class Linkedlist {

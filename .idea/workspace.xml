@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51e8c8e-2130-4243-9c97-04a7a63d2d66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java/linkedlist/LinkedListAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures/linkedlist/LList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures/linkedlist/LList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures/linkedlist/Linkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures/linkedlist/Linkedlist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/Linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/Linkedlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/Linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/linkedlist/Linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/linkedlist/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +41,11 @@
   </component>
   <component name="RunManager" selected="Application.Linkedlist">
     <configuration name="LList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LList" />
+      <option name="MAIN_CLASS_NAME" value="java.linkedlist.LList" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.LList" />
+          <option name="PATTERN" value="java.linkedlist.LList" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,11 +54,11 @@
       </method>
     </configuration>
     <configuration name="Linkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.Linkedlist" />
+      <option name="MAIN_CLASS_NAME" value="java.linkedlist.Linkedlist" />
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="java.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,7 +71,7 @@
       <module name="data-structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="java.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +110,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578270298376</updated>
       <workItem from="1578270299805" duration="6904000" />
+      <workItem from="1581370047992" duration="1144000" />
+      <workItem from="1581496314691" duration="6000" />
     </task>
     <servers />
   </component>
@@ -117,6 +119,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="796" y="447" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581370095643">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="796" y="447" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.26.1920.1054@0.26.1920.1054" timestamp="1581370095643" />
     <state width="1862" height="279" key="GridCell.Tab.0.bottom" timestamp="1578309366552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -133,46 +139,5 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1862" height="279" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578309366551" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedlist/MyLinkedList.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
